@@ -1,0 +1,92 @@
+
+body {
+  line-height: 1.4;
+  font-family: Arial;
+  font-size: 10.5pt;
+}
+
+.coverage-title {
+  margin-top: 6pt;
+  margin-bottom: 12pt;
+  line-height: normal;
+  font-size: 25.5pt;
+  font-weight: normal;
+}
+
+.coverage-description {
+  margin-bottom: 12pt;
+}
+
+.coverage-description ul {
+  margin: 12pt 0;
+  padding: 0;
+}
+
+.coverage-description ul li {
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.coverage-table {
+  width: 469.5pt;
+  margin: 0 auto;
+  border: none;
+  border-collapse: collapse;
+}
+
+.coverage-table th {
+  font-weight: bold;
+  padding: 5pt;
+  vertical-align: top;
+  border: 1.5pt solid black;
+  background-color: #f2f2f2;
+}
+
+.coverage-table td {
+  padding: 5pt;
+  vertical-align: top;
+  border: 1.5pt solid black;
+}
+
+.coverage-table p {
+  margin: 0;
+  line-height: normal;
+}
+
+.page-heading {
+  border: none;
+  margin: 0 auto 12pt;
+  width: 100%;
+}
+
+.logo {
+  height: 83px;
+  width: 89px;
+}
+
+.fine-print {
+  margin-bottom: 10pt;
+  line-height: 115%;
+  font-size: 9pt;
+}
+
+.no-spacing {
+  margin: 0;
+  padding: 0;
+}
+
+.signature-box {
+  width: 312.5pt;
+  border-right: 1.5pt solid #000;
+  padding: 2.15pt 5pt;
+  vertical-align: top;
+}
+
+.date-box {
+  width: 132.5pt;
+  border-left: 1.5pt solid #000;
+  padding: 2.15pt 5pt;
+  vertical-align: top;
+}
