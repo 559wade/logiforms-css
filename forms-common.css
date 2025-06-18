@@ -5,6 +5,16 @@ body {
   font-size: 10.5pt;
 }
 
+.section-title {
+  margin-top: 18pt;
+  margin-bottom: 6pt;
+  page-break-inside: avoid;
+  page-break-after: avoid;
+  line-height: 115%;
+  font-size: 15.5pt;
+  font-weight: normal;
+}
+
 .coverage-title {
   margin-top: 6pt;
   margin-bottom: 12pt;
