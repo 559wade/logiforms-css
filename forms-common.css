@@ -6,7 +6,6 @@ body {
 }
 
 .section-title {
-  margin-top: 18pt;
   margin-bottom: 6pt;
   page-break-inside: avoid;
   page-break-after: avoid;
@@ -16,7 +15,6 @@ body {
 }
 
 .coverage-title {
-  margin-top: 6pt;
   margin-bottom: 12pt;
   line-height: normal;
   font-size: 25.5pt;
@@ -102,3 +100,7 @@ body {
   padding: 2.15pt 5pt;
   vertical-align: top;
 }
+
+/* Utility Classes */
+mb-15pt { margin-bottom: 15pt; }
+
