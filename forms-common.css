@@ -110,6 +110,7 @@ body {
 
 .signature-box span,
 .date-box span {
+  display: inline-block;
   font-size: 9pt;
   margin-bottom: 12pt;
 }
