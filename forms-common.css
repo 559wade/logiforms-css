@@ -88,7 +88,7 @@ body {
 }
 
 .signature-table {
-  margin-bottom: 0 auto;
+  margin: 0 auto;
   border: 1.5pt solid #000000;
   border-collapse: collapse;
   width:469.5pt;
