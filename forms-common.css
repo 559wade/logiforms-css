@@ -49,7 +49,10 @@ body {
   padding: 5pt;
   vertical-align: top;
   text-align: left;
-  background-color: #f2f2f2;
+}
+
+.coverage-table th:first-child {
+  width: 312.5pt;
 }
 
 .coverage-table tr:nth-child(even) {
