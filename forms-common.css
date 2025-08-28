@@ -41,7 +41,6 @@ body {
   width: 469.5pt;
   margin: 0 auto;
   border: none;
-  border-collapse: collapse;
   page-break-inside: avoid;
 }
 
@@ -50,14 +49,20 @@ body {
   padding: 5pt;
   vertical-align: top;
   text-align: left;
-  border: 1.5pt solid black;
+  background-color: #f2f2f2;
+}
+
+.coverage-table tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
 .coverage-table td {
   padding: 5pt;
   vertical-align: top;
-  border: 1.5pt solid black;
+}
+
+.coverage-table td:empty {
+  display: none;
 }
 
 .coverage-table p {
