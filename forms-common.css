@@ -41,6 +41,7 @@ body {
   width: 469.5pt;
   margin: 0 auto;
   border: none;
+  border-collapse: collapse;
   page-break-inside: avoid;
 }
 
